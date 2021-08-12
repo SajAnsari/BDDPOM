@@ -34,6 +34,7 @@ public class LoginPage extends TestBase{
 		pwd.sendKeys(strPwd);
 		loginBtn.click();
 		System.out.println("Modified by Tester2");
+		System.out.println("Mine modified");
 	}
 
 }
