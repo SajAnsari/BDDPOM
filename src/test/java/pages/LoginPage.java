@@ -33,6 +33,7 @@ public class LoginPage extends TestBase{
 		uname.sendKeys(strUser);
 		pwd.sendKeys(strPwd);
 		loginBtn.click();
+		System.out.println("Modified by Tester2");
 	}
 
 }
