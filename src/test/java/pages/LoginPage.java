@@ -35,6 +35,7 @@ public class LoginPage extends TestBase{
 		loginBtn.click();
 		System.out.println("Modified by Tester2");
 		System.out.println("Mine modified");
+		System.out.println("Modified by Tester3");
 	}
 
 }
